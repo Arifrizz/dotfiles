@@ -20,7 +20,7 @@ Clone this repository to your local machine and then move the files to the .conf
 
 
 ```bash
-git clone https://github.com/Arifrizz/dotfiles.git
+git clone https://github.com/therealLDG/dotfiles.git
 cd dotfiles
 
 
